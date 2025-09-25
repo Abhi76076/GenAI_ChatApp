@@ -26,7 +26,7 @@ cd genai
 2. 🐍 Create Virtual Environment
 bash
 ```bash
-python -m venv venv
+python -m venv
 ```
 3. ✅ Activate the Virtual Environment (PowerShell)
 ```bash
@@ -37,7 +37,8 @@ python -m venv venv
 pip install -r requirements.txt
 ```
 # 5. 🔐 Set Your API Key Securely
-- Add your Google API key to .streamlit/secrets.toml:
+- rename example.secrets.toml file as secrets.toml
+- Add your Google API key to 
 - GOOGLE_API_KEY = "your-real-api-key"
 - Alternatively, you can set it as an environment variable:
 
