@@ -20,8 +20,8 @@ This is a simple **Streamlit web app** that interacts with Google's Generative A
 Download or clone the repo to your machine:
 
 ```bash
-git clone https://github.com/your-username/genai-chat-app
-cd genai-chat-app
+git clone https://github.com/Abhi76076/GenAI_ChatApp
+cd genai
 ```
 2. 🐍 Create Virtual Environment
 bash
